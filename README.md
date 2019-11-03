@@ -1,2 +1,2 @@
 # Kd-trees
-2d tree for efficient range search and nearest point wuery
+2d tree for efficient range search and nearest point query
